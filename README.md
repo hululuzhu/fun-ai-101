@@ -9,3 +9,7 @@ A few fun ai talks focusing on AI education
 - 中文：浅谈 DeepMind 的 8 篇 “Alpha” 冠名论文
   - 包括AlphaGo， AlphaGo Zero， AlphaZero， AlphaStar， AlphaFold， AlphaCode， AlphaTensor，AlphaDev
 - [DeepMind Alpha Talk Slides 07/09/2023](./DeepMind_8_Alpha_papers_07_2023_Chinese_V1.pdf)
+
+## 30 mins AI 101 walkthrough
+- 中文： CGN 速通版 30分钟AI 101
+- [CGN AI 101 slides 08/04/2023](./CGN_AI_101_v1.pdf)
